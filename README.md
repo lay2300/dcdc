@@ -19,3 +19,7 @@ A romantic interactive web application featuring a lock screen, memory slideshow
 ## Customization
 
 - Modify `script.js` to change the passcode or add more memories to the `memories` array.
+
+## Troubleshooting
+
+- If images do not load, please ensure all filenames are in lowercase (e.g., `2.jpg`, `card.jpg`).
